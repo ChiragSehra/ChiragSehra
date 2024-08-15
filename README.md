@@ -16,9 +16,7 @@
 <p align="center">
   Hi, I'm Chirag Sehra, Data Architect & Data Scientist from India
   <br>
-  🎓 I graduated from IP University Information Technology Department.
-  <br>
-  💻 I love writing code and learn anything about it.
+  💻 I love breaking code compared to building new things.
   <br>
   📚 I’m currently learning how to build my own startup around analytics.
   <br>
